@@ -6,7 +6,7 @@ Get source info from a function definition in NodeJS.
 
 NodeJS does not export methods to get source file name, line and column number from a function reference. function-info is a NodeJS addon that calls the relevant V8 methods to get this information back to js.
 
-# Getting Started
+## Getting Started
 
 Install from npm
 ```bash
