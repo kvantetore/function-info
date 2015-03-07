@@ -1,0 +1,13 @@
+{
+  "name": "function-info",
+  "version": "0.1.0",
+  "description": "Returns source info (filename, line, column) for a function.",
+  "author": "Tore Birkeland",
+  "license": "MIT",
+  "gypfile": true,
+  "main": "./lib/index.js",
+  "dependencies": {
+    "nan": "^1.7.0",
+    "node-gyp": "^1.0.3"
+  }
+}
